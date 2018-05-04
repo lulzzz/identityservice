@@ -4,7 +4,7 @@ Identity Service is used to provide single-sign-on and protect Web APIs in an AS
 
 # Why use RCL Images
 
-RCL docker images are easy to install in Microsoft Azure Container Services (AKS). We provide helm charts for all our images, which makes it easy to intall and update the docker packages.
+RCL docker images are easy to install in Microsoft Azure Container Services (AKS). We provide helm charts for all our images, which makes it easy to intall and update the docker packages in a Kubenetes cluster.
 
 ## Features
 
