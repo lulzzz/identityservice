@@ -2,6 +2,10 @@
 
 Identity Service is used to provide single-sign-on and protect Web APIs in an ASP.NET Core application. An intuitive web UI dashboard is used to carry out configuration tasks for identity and authorization.
 
+# Why use RCL Images
+
+RCL docker images are easy to install in Microsoft Azure Container Services (AKS). We provide helm charts for all our images, which makes it easy to intall and update the docker packages.
+
 ## Features
 
 * Single-Sign-On (SSO) using OpenID connect
